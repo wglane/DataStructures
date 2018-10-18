@@ -1,4 +1,4 @@
-authors = ["William <william.g.lane@gmail.com>"]
+authors = ["William"]
 name = "LinkedList"
 uuid = "6f0e2a48-d28a-11e8-0610-9bd1907d451c"
 version = "0.1.0"
